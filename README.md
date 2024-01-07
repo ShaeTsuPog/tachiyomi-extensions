@@ -3,7 +3,10 @@ Please give the repo a :star:
 ## Source Code
 https://github.com/keiyoushi/tachiyomi-extensions-source
 
-## Usage
+## Report issues
+https://github.com/keiyoushi/tachiyomi-extensions-source/issues/new/choose
+
+## Guide
 Tachiyomi:
 1. Go to More → Settings → Browse
 2. Tap on "Extension repos" and then "Add" button at bottom
