@@ -11,10 +11,12 @@ https://github.com/keiyoushi/tachiyomi-extensions-source
 https://github.com/keiyoushi/tachiyomi-extensions-source/issues/new/choose
 
 ## Guide
+MAKE SURE TO UNINSTALL THE OLD EXTENSIONS BEFORE INSTALLING THE ONES FROM HERE
+
 Tachiyomi:
 1. Go to More → Settings → Browse
 2. Tap on "Extension repos" and then "Add" button at bottom
-3. Input "https://raw.githubusercontent.com/keiyoushi/tachiyomi-extensions/repo/index.min.json"
+3. Input "https://www.example.com/index.min.json"
 4. Enjoy!
 
 TachiyomiSY:
